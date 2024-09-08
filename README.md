@@ -1,5 +1,5 @@
 # 05-Frontend-React
-A small frontend application for an internet shop made in React, which gets item onfo from the server in the https://github.com/AndPust/05-Frontend-Kotlin repository
+A small frontend application for an internet shop made in React, which gets item info from the server in the https://github.com/AndPust/05-Frontend-Kotlin repository
 
 To run this webapp run the following in the `./reactApplication` directory:
 
