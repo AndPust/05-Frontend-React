@@ -4,6 +4,7 @@ A small frontend application for an internet shop made in React, which gets item
 To run this webapp run the following in the `./reactApplication` directory:
 
 `npm install`
+
 `npm start`
 
 Gzipped MP4 demo is here:: https://github.com/AndPust/05-Frontend-React/blob/main/demos/05-Frontend.mp4.gz
